@@ -1,6 +1,4 @@
 Name: Neel Shah
-Mis no : 752462009
-Batch no : 2
 
 Real-Time Stock Prediction Web App
 Problem Statement
